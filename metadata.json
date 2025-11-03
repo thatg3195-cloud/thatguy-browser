@@ -1,0 +1,5 @@
+{
+  "name": "thatguy Browser",
+  "description": "A secure, private web browsing experience with a built-in simulated Tor connection and multiple search engine options. Emphasizes user privacy and unrestricted searching.",
+  "requestFramePermissions": []
+}
